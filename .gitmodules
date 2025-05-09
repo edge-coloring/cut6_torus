@@ -1,0 +1,3 @@
+[submodule "toroidal_configurations"]
+	path = toroidal_configurations
+	url = https://github.com/edge-coloring/toroidal_configurations.git
